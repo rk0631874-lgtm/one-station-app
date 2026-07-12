@@ -1,0 +1,25 @@
+{
+  "name": "One Station Cafe",
+  "short_name": "One Station",
+  "description": "One Station Cafe Chandrayangutta - Pizza, Burgers, Broasted, Wraps, Mojitos. Order online with UPI. Free delivery within 2km.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8F8F8",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
